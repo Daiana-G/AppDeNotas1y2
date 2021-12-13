@@ -1,0 +1,98 @@
+[
+    {
+        "tarea": "Tender la cama",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Descongelar algo para el almuerzo",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Hacer el desayuno",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Sacar la basura",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Lavar los platos",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Pasear al perro",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Tender la cama",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Tomar Agua",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Hacer la tarea",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Revisar tareas",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Leer un libro",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Salir a caminar",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Hacer ejercicio",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Peinarse y maquillarse",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Ir a danza",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Arreglar habitación",
+        "estado": "En progreso"
+    },
+    {
+        "tarea": "Regar plantas",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Revisar Correo",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "llevar al gato a la veterinaria",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Hacer las compras",
+        "estado": "Pendiente"
+    },
+    {
+        "tarea": "Tender la ropa",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Ir al dentista",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Salir a correr",
+        "estado": "Terminado"
+    },
+    {
+        "tarea": "Ver series",
+        "estado": "Terminado"
+    }
+]
